@@ -1,0 +1,4 @@
+source "/home/mercedes-a200/Downloads/esp/esp-idf-master/components/app_update/Kconfig.projbuild"
+source "/home/mercedes-a200/Downloads/esp/esp-idf-master/components/bootloader/Kconfig.projbuild"
+source "/home/mercedes-a200/Downloads/esp/esp-idf-master/components/esptool_py/Kconfig.projbuild"
+source "/home/mercedes-a200/Downloads/esp/esp-idf-master/components/partition_table/Kconfig.projbuild"
